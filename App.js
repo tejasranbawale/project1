@@ -4,7 +4,7 @@ import {Text, View} from 'react-native';
 function App() {
   return (
     <View>
-      <Text>HEllo Tejas</Text>
+      <Text>HEllo Dev Branch</Text>
     </View>
   );
 }
