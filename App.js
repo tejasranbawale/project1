@@ -4,7 +4,7 @@ import {Text, View} from 'react-native';
 function App() {
   return (
     <View>
-      <Text>HEllo WOrld</Text>
+      <Text>HEllo Tejas</Text>
     </View>
   );
 }
